@@ -20,3 +20,27 @@
 
 ---
 🔥 **ডেভেলপার:** [Naimur Rahman Nahid](https://www.nijerinfobd.com/)
+
+# PHP 3D Calculator
+
+This project is a **3D styled calculator**, built using **PHP and CSS**. It supports basic operations like **Addition, Subtraction, Multiplication, Division, Modulus, and Power**.
+
+## 🛠️ Features:
+- ✅ Beautiful 3D design with a smooth interface
+- ✅ Supports **Addition, Subtraction, Multiplication, Division, Modulus, and Power** operations
+- ✅ **Input Validation** (only accepts numerical input)
+- ✅ **"Nijer Info BD" button** in the header (with a link)
+- ✅ **Responsive design**
+
+## 🚀 How to Use?
+1. Keep the `index.php` and `style.css` together in the same folder.
+2. Run the PHP server.
+3. Open `index.php` in your browser.
+4. Enter numbers, select an operation, and click "Calculate".
+
+## 📌 Live Demo
+[👉 Nijer Info BD](https://www.nijerinfobd.com/)
+
+---
+🔥 **Developer:** [Naimur Rahman Nahid](https://www.nijerinfobd.com/)
+
