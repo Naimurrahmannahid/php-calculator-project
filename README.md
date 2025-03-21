@@ -16,10 +16,12 @@
 4. সংখ্যা লিখে অপারেশন সিলেক্ট করুন এবং "হিসাব কর" ক্লিক করুন।
 
 ## 📌 লাইভ ডেমো
-[👉 Nijer Info BD](https://www.nijerinfobd.com/)
+[👉 PHP Calculator](https://serverbot.mooo.com/php-calculator-project.php)
 
 ---
 🔥 **ডেভেলপার:** [Naimur Rahman Nahid](https://www.nijerinfobd.com/)
+<br>🔥 **ডেভেলপার:** [Lifemind BD](https://www.lifemindbd.com/)
+
 
 # PHP 3D Calculator
 
@@ -39,8 +41,8 @@ This project is a **3D styled calculator**, built using **PHP and CSS**. It supp
 4. Enter numbers, select an operation, and click "Calculate".
 
 ## 📌 Live Demo
-[👉 Nijer Info BD](https://www.nijerinfobd.com/)
-
+[👉 PHP Calculator](https://serverbot.mooo.com/php-calculator-project.php)
 ---
 🔥 **Developer:** [Naimur Rahman Nahid](https://www.nijerinfobd.com/)
+<br> 🔥 **Developer:** [Lifemind BD](https://www.lifemindbd.com/)
 
